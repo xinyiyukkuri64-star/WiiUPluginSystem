@@ -111,4 +111,3 @@ extern "C" {
             client.OnFrameUpdate(vpad->btn_pressed, vpad->btn_held);
         }
     }
-}
